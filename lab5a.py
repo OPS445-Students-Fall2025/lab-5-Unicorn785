@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author ID: pirajeen Kandasamy
+#Author ID:pkandasamy7
 
 def read_file_string(file_name):
 #Takes file_name (str) and returns the entire file contents as a string.
